@@ -1,0 +1,23 @@
+# 薬物相互作用予測AIシステム - 依存ライブラリ
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For advanced models
+# xgboost>=1.5.0
+# lightgbm>=3.3.0
+
+# Optional: For explainability
+# shap>=0.40.0
+
+# Optional: For real drug data
+# rdkit>=2022.03.1  # Chemical informatics
+# pubchempy>=1.0.4  # PubChem API
