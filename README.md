@@ -273,12 +273,12 @@ if drug1_cyp_substrate == 'CYP3A4' and drug2_cyp_inhibitor:
 
 ## 👤 作成者
 
-**古賀勇輝（Yuki Koga）**
+**Yuki Koga**
 - 資格: 薬剤師、TOEIC 825、 HSK4級（中国語）
 - 専門: 薬学 （→ AIエンジニア/データサイエンティスト）
 - 言語: 日本語、英語、中国語、スペイン語
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@AoharuPeace](https://github.com/AoharuPeace)
+- LinkedIn: [yuki-k-ab049b216](https://linkedin.com/in/yuki-k-ab049b216)
 
 ---
 
