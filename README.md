@@ -196,7 +196,7 @@ if drug1_cyp_substrate == 'CYP3A4' and drug2_cyp_inhibitor:
 
 ---
 
-## 🎓 このプロジェクトで示せるスキル
+## 🎓 このプロジェクトで示すスキル
 
 ### データサイエンススキル
 ✅ ドメイン知識の特徴量化  
@@ -225,7 +225,7 @@ if drug1_cyp_substrate == 'CYP3A4' and drug2_cyp_inhibitor:
 
 ---
 
-## 💼 面接でのアピールポイント
+## 💼 アピールポイント
 
 ### 専門性の融合
 「薬剤師として培った薬物相互作用の臨床知識を、機械学習モデルの特徴量設計に活かしました。特にCYP酵素阻害や治療域の狭さなど、実際の相互作用メカニズムを特徴量として実装しています。」
@@ -274,9 +274,9 @@ if drug1_cyp_substrate == 'CYP3A4' and drug2_cyp_inhibitor:
 ## 👤 作成者
 
 **古賀勇輝（Yuki Koga）**
-- 資格: 薬剤師、英語医療通訳士
+- 資格: 薬剤師、TOEIC 825, HSK4級（中国語）
 - 専門: 薬学 → AIエンジニア/データサイエンティスト
-- 言語: 日本語、英語、中国語、韓国語、マレー語
+- 言語: 日本語、英語、中国語、スペイン語
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
 
